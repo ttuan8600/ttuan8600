@@ -62,11 +62,11 @@
         </td>
       </tr>
     </tbody>
-  <table>
-<div>
-  
+  </table>
+</div>
+
+<h5 align="right">🎮To have fun and spend time...</h5>
 <p align="right">
   <a href="https://open.spotify.com/user/22dtzzbnekh7g7i65apzghs5y?si=d87604cb4e064cbd"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://steamcommunity.com/id/tuantran445/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <h5 align="right">🎮 To have fun and spend time...</h5>
 </p>
