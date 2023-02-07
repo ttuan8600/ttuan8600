@@ -5,7 +5,8 @@
 <div align="center">
   <strong>About Me</strong>
   <p align='center'>
-    I am currently living in California, USA and pursuing a BS in CS at <b>CSULB</b> 
+    I am currently living in California, USA and pursuing a BS in CS at <b>CSULB</b>. 
+    I work on random projects in my free time, a lot involving Discord! Feel free to reach out to me
   </p>
   <a href="https://www.linkedin.com/in/twan-tran/">
     <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
@@ -16,6 +17,7 @@
   <a href="mailto:twantran68@gmail.com">
     <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
+  <p>I'm always open to discussing new oppurtunities and connecting with other developers. </p>
 </div>
 
 <hr>
