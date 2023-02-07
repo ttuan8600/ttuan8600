@@ -1,8 +1,5 @@
 <h1 align='center'> 
   Hi there 👋, I'm Twan Tran 💻
-  <p align='center'>
-    <a href="#"><img src="https://komarev.com/ghpvc/?username=ttuan8600&color=blue&style=for-the-badge"></a>
-  </p> 
 </h1>
 
 <div align="center">
@@ -26,26 +23,28 @@
   <h5>Programming Languages</h5>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,py,java" />
+      <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,java" />
     </a>
   </p>
   <h5>Databases</h5>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,dynamodb" />
     </a>
   </p>
   <h5>Tools</h5>
     <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,idea,linux" />
+      <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,idea,linux,bash,powershell,replit,github,unity" />
     </a>
   </p>
 </hr>
 
-<h3>🌱  I'm currently learning...</h3>
+<h3>🌱  Other skills that I am currently learning ...</h3>
 <p >
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=javascript,html,figma,gcp" />
+    </a>
 </p>
 
 <h3>📈  GitHub Stats </h3>
@@ -85,4 +84,8 @@
 <p align="left">
   <a href="https://open.spotify.com/user/22dtzzbnekh7g7i65apzghs5y?si=d87604cb4e064cbd"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://steamcommunity.com/id/tuantran445/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=ttuan8600&color=blue&style=flat"></a>
 </p>
