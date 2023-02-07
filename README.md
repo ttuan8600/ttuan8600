@@ -46,17 +46,25 @@
   <table width="100%">
     <tbody>
       <tr>
-        <td width="50%" style="border: none !important;">
+        <td width="33%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/ttuan8600">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttuan8600&theme=dark&show&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Twan's Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
-        <td width="50%" style="border: none !important;">
+        <td width="33%" style="border: none !important;">
         <div align="center" width="100%">
-          <a href="https://github.com/jeffreyc86">
+          <a href="https://github.com/ttuan8600">
             <img src="https://github-readme-stats.vercel.app/api?username=ttuan8600&theme=dark&show&show_icons=true&hide=stars&hide_border=true" alt="Twan's GitHub Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+        <td width="33%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/ttuan8600">
+            <img align="center" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=ttuan8600&theme=dark&show&hide_border=true" alt="Twan's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
@@ -65,9 +73,9 @@
   </table>
 </div>
 
+
 <h3 align="left">🎮  What I do in my free time ...</h3>
 <p align="left">
   <a href="https://open.spotify.com/user/22dtzzbnekh7g7i65apzghs5y?si=d87604cb4e064cbd"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://steamcommunity.com/id/tuantran445/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  
 </p>
