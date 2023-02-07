@@ -45,7 +45,7 @@
 <h3>🌱  Other skills that I am currently learning ...</h3>
 <p >
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=javascript,html,figma,gcp" />
+      <img src="https://skillicons.dev/icons?i=javascript,html,figma,gcp,css,tailwind,react" />
     </a>
 </p>
 
