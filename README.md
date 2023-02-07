@@ -46,25 +46,25 @@
   <table width="100%">
     <tbody>
       <tr>
-        <td width="33%" style="border: none !important;">
+<!--         <td width="33%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/ttuan8600">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttuan8600&theme=dark&show&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Twan's Language Stats" vertical-align="middle"/>
           </a>
         </div>
-        </td>
-        <td width="33%" style="border: none !important;">
+        </td> -->
+        <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/ttuan8600">
             <img src="https://github-readme-stats.vercel.app/api?username=ttuan8600&theme=dark&show&show_icons=true&hide=stars&hide_border=true" alt="Twan's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
-        <td width="33%" style="border: none !important;">
+        <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/ttuan8600">
             <img align="center" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=ttuan8600&theme=dark&show&hide_border=true" alt="Twan's GitHub Stats" vertical-align="middle"/>
+       src="https://github-readme-streak-stats.herokuapp.com/?user=ttuan8600&layout=compact&theme=dark&show&hide_border=true" alt="Twan's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
