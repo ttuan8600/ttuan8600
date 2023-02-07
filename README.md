@@ -24,15 +24,23 @@
 <hr>
   <h3>🛠 Languages, Tools, Skills that I work with ...</h3>
   <h5>Programming Languages</h5>
-    <p >
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>      
-      <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>      
-      <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>      
-      <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-    </p>
-
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cpp,py,java" />
+    </a>
+  </p>
+  <h5>Databases</h5>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+    </a>
+  </p>
+  <h5>Tools</h5>
+    <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,idea,linux" />
+    </a>
+  </p>
 </hr>
 
 <h3>🌱  I'm currently learning...</h3>
