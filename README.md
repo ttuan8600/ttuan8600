@@ -8,7 +8,7 @@
     I am currently living in California, USA and pursuing a BS in CS at <b>CSULB</b>. 
     I work on random projects in my free time, a lot involving Discord! Feel free to reach out to me
   </p>
-  <a href="https://www.linkedin.com/in/twan-tran/">
+  <a href="https://ttuan8600.github.io/">
     <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/twan-tran/">
