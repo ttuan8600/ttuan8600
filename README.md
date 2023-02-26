@@ -1,5 +1,5 @@
 <h1 align='center'> 
-  👋 Hi there, I'm Twan Tran 👨‍💻 👋
+  👋 Hello, I'm Twan Tran 👨‍💻 👋
 </h1>
 
 <div align="center">
